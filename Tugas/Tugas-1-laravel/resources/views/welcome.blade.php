@@ -27,7 +27,7 @@
                 </ul>
             </li>
             <br>
-            <li><b>Area Pengguna & Admin (Membutuhkan Login)</b>
+            <li><b>Area Pengguna & Admin</b>
                 <ul>
                     <li><a href="{{ route('profile') }}">Buka Halaman Profil</a></li>
                     <li><a href="{{ route('admin.dashboard') }}">Masuk ke Dashboard Admin</a></li>
